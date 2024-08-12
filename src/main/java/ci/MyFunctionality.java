@@ -1,6 +1,6 @@
 package ci;
 
-// demo
+// demo1
 public class MyFunctionality {
 
     public MyFunctionality() {
